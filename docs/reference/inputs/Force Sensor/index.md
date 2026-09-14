@@ -11,11 +11,9 @@ Use a GVS cable to connect the sensor. This has 3 wires, blue, red and black:
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
-+----------------------+----------------------+
-| Force Sensor         | Microbit             |
-+----------------------+----------------------+
-| 3-pin connector     | P0 3-pin connector   |
-+----------------------+----------------------+
+| Force Sensor    | Microbit           |
+| :-------------- | :----------------- |
+| 3-pin connector | P0 3-pin connector |
 
 ![Code](wiring.png)
 

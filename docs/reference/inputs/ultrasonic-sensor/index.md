@@ -15,10 +15,11 @@ Connect the special cable to the ultrasonic sensor. The red wire should connect 
 
 Attach the cable to the Edge Connector or Motor Controller board as follows:
 
-| Ultrasonic       | Microbit           | Purpose                          |
-|------------------|--------------------|----------------------------------|
-| Trig (white wire)| P14 3-pin connector| Trig (make an ultrasound signal) |
-| Echo (brown wire)| P16                | Echo (listen for an ultrasound signal) |
+| Ultrasonic        | Microbit            | Purpose                              |
+| :---------------- | :------------------ | :----------------------------------- |
+| Trig (white wire) | P14 3-pin connector | Trig (make an ultrasound signal)     |
+| Echo (brown wire) | P16                 | Echo (listen for an ultrasound signal) |
+
 
 ![Code](wiring.png){width = 600}
 

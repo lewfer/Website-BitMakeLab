@@ -15,13 +15,12 @@ Position the IR LED and the IR sensor so they face each other:
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
-+--------------------------+--------------------------------------+
-| Component                | micro:bit Connection                 |
-+--------------------------+--------------------------------------+
-| Break Beam Sensor        | micro:bit                            |
-| Sensor (with 3 wires)    | P13 3-pin connector                  |
-| LED (with 2 wires)       | Any GND and 3V3 pins, e.g. on P7    |
-+--------------------------+--------------------------------------+
+| Component             | micro:bit Connection              |
+| :-------------------- | :-------------------------------- |
+| Break Beam Sensor     | micro:bit                         |
+| Sensor (with 3 wires) | P13 3-pin connector               |
+| LED (with 2 wires)    | Any GND and 3V3 pins, e.g. on P7 |
+
 
 ![Code](wiring.png)
 

@@ -20,12 +20,13 @@ Use a special cable to connect the sensor. This has 4 wires, white, pink, red an
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
-| Numeric Display | Microbit | Purpose        |
-|-----------------|----------|----------------|
-| Red             | 3V3      | Power          |
-| Black           | GND      | Ground         |
-| Pink            | P1       | Left sensor    |
-| White           | P0       | Right sensor   |
+| Numeric Display | Microbit | Purpose      |
+| :-------------- | :------- | :----------- |
+| Red             | 3V3      | Power        |
+| Black           | GND      | Ground       |
+| Pink            | P1       | Left sensor  |
+| White           | P0       | Right sensor |
+
 
 On the Motor Controller Board it should look like this:
 

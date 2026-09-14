@@ -9,15 +9,14 @@ Most joysticks work in the same way. There are power inputs (GND and 3V) and ana
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
-+----------------------+--------------------------------------+
-| Joystick             | Microbit                             |
-+----------------------+--------------------------------------+
-| VCC                  | 3V                                   |
-| GND                  | GND                                  |
-| X-axis               | P0 (or another analogue pin)         |
-| Y-axis               | P1 (or another analogue pin)         |
-| press                | P8 (or another digital pin)         |
-+----------------------+--------------------------------------+
+| Joystick | Microbit |
+| :------- | :------- |
+| VCC      | 3V       |
+| GND      | GND      |
+| X-axis   | P0 (or another analogue pin) |
+| Y-axis   | P1 (or another analogue pin) |
+| press    | P8 (or another digital pin) |
+
 
 ![Code](adafruit-joystick-wiring.jpg)
 

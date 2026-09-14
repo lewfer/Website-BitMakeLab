@@ -11,11 +11,10 @@ Use a GVS cable to connect the sensor. This has 3 wires, blue, red and black:
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
-+----------------------+----------------------+
-| Light Sensor         | Microbit             |
-+----------------------+----------------------+
-| 3-pin connector      | P0 3-pin connector   |
-+----------------------+----------------------+
+| Light Sensor    | Microbit           |
+| :-------------- | :----------------- |
+| 3-pin connector | P0 3-pin connector |
+
 
 Make sure you connect the cable the right way round, with the black wire connecting to the black pin on both ends.
 
