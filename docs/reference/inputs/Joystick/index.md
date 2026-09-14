@@ -23,7 +23,7 @@ Wire up as follows, using the Edge Connector or Motor Controller board:
 
 You don't have to use pins P0 and P1. You can use any analogue pins for the x and y axes. Just remember to adjust your code accordingly.
 
-Coding
+## Coding
 Enter this code in forever:
 
 ![Code](code1.png)
