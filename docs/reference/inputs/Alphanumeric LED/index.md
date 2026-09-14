@@ -13,14 +13,13 @@ Use the I2C cable to connect the sensor. This has 4 wires in 2 pairs: orange-yel
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
-+----------------------+----------------------+------------------+------------------+
-| Alphanumeric Display | Suggested wire colour | Edge Connector   | Motor Controller |
-+----------------------+----------------------+------------------+------------------+
-| VCC                  | Red                  | 3V3              | V                |
-| GND                  | Black                | GND              | G                |
-| SCL                  | Yellow               | SCL              | C                |
-| SDA                  | Orange               | SDA              | D                |
-+----------------------+----------------------+------------------+------------------+
+| Alphanumeric Display | Suggested wire colour | Edge Connector | Motor Controller |
+| :------------------- | :-------------------- | :------------- | :--------------- |
+| VCC                  | Red                   | 3V3            | V                |
+| GND                  | Black                 | GND            | G                |
+| SCL                  | Yellow                | SCL            | C                |
+| SDA                  | Orange                | SDA            | D                |
+
 
 On the edge connector it should look like this:
 
