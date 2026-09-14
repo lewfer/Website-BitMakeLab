@@ -23,6 +23,7 @@ nav:
     - Inputs:
       - Button: reference/inputs/button/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
+      - break beam sensor: reference/inputs/break beam sensor/index.md
     - Outputs:
       - LED: reference/outputs/led/index.md
     - Motors:
