@@ -24,6 +24,12 @@ nav:
       - Button: reference/inputs/button/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
       - break beam sensor: reference/inputs/break beam sensor/index.md
+      - Alphanumeric LED: reference/inputs/Alphanumeric LED/index.md
+      - Froce Sensor: reference/inputs/Force Sensor/index.md
+      - Joystick: reference/inputs/Joystick/index.md
+      - Light Sensor: reference/inputs/Light Sensor/index.md
+      - line follow sensor: reference/inputs/line follow sensor/index.md
+      - ultrasonic-sensor: reference/inputs/ultrasonic-sensor/index.md
     - Outputs:
       - LED: reference/outputs/led/index.md
     - Motors:
