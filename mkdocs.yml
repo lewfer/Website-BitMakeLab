@@ -16,8 +16,13 @@ nav:
     - Overview: projects/overview.md
     - Wheeled Robots:
       - Overview: projects/wheeled-robots/overview.md
-      - Project 1.01 - Build a Basic Robot: projects/wheeled-robots/project1.01/index.md
-      - Project 1.02 - Add Lights to your Robot: projects/wheeled-robots/project1.02/index.md
+      - Project 1.01 - Build a Basic Robot: projects/wheeled-robots/project 1.01/index.md
+      - Project 1.02 - Add Lights to your Robot: projects/wheeled-robots/project 1.02/index.md
+      - Project 1.03 - Add Crash Sensors to your Robot: projects/wheeled-robots/project 1.03/index.md
+      - Project 1.04 - Build a Remote Control Robot: projects/wheeled-robots/project 1.04/index.md
+      - Project 1.05 - Add a Speed Control to your Remote: projects/wheeled-robots/project 1.05/index.md
+      - Project 1.06 - Build a Line Following Robot: projects/wheeled-robots/project 1.06/index.md
+      - Project 1.07 - Build an Obstacle Avoiding Robot: projects/wheeled-robots/project 1.07/index.md
   - Reference: 
     - Overview: reference/overview.md
     - Inputs:
