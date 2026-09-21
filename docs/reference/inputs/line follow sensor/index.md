@@ -16,7 +16,7 @@ The light is an Infrared (IR) light. This is a light that can’t be seen by hum
 ### Wiring
 Use a special cable to connect the sensor. This has 4 wires, white, pink, red and black:
 
-![line follow cable](../images/line-follow-cable.jpg)
+![line follow cable](../../../assets/line-follow-cable.jpg)
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 

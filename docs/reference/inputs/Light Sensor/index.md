@@ -7,7 +7,7 @@ Use it to turn on an LED when it gets dark, or use two to get a robot to follow 
 ### Wiring
 Use a GVS cable to connect the sensor. This has 3 wires, blue, red and black:
 
-![Code](../images/gvs-cable.jpg)
+![Code](../../../assets/gvs-cable.jpg)
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 

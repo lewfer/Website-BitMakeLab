@@ -7,7 +7,7 @@ Use it detect when an object is placed on it, or as a force-sensitive button, an
 ### Wiring
 Use a GVS cable to connect the sensor. This has 3 wires, blue, red and black:
 
-![code](../images/gvs-cable.jpg)
+![code](../../../assets/gvs-cable.jpg)
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 

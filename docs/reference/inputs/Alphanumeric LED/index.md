@@ -9,7 +9,7 @@ These instructions work with the Elecfreaks alphanumeric display, but not with t
 ### Wiring
 Use the I2C cable to connect the sensor. This has 4 wires in 2 pairs: orange-yellow and red-black:
 
-![Code](../images/i2c-cable.jpg)
+![Code](../../../assets/i2c-cable.jpg)
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
@@ -32,7 +32,7 @@ On the motor controller it should look like this:
 #### Coding
 You will need to add an extension to get additional blocks for the display. Click on the extensions block:
 
-![Code](../images/block-extension.png)
+![Code](../../../assets/block-extension.png)
 
 Then search for "lcd":
 
