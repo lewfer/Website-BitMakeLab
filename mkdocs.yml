@@ -23,6 +23,7 @@ nav:
       - Project 1.05 - Add a Speed Control to your Remote: projects/wheeled-robots/project 1.05/index.md
       - Project 1.06 - Build a Line Following Robot: projects/wheeled-robots/project 1.06/index.md
       - Project 1.07 - Build an Obstacle Avoiding Robot: projects/wheeled-robots/project 1.07/index.md
+      - trains project: projects/wheeled-robots/trains project.md
       - Project 2.01 - Build a Train: projects/wheeled-robots/project 2.01/index.md
       - Project 2.02 - Add Lights to your Train: projects/wheeled-robots/project 2.02/index.md
       - Project 2.03 - Add Crash Sensors to your Train: projects/wheeled-robots/project 2.03/index.md
