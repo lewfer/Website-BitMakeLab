@@ -20,7 +20,7 @@ Wire up as follows, using the Edge Connector or Motor Controller board:
 
 ![Code](adafruit-joystick-wiring.jpg)
 
-You don't have to use pins P0 and P1. You can use any analogue pins for the x and y axes. Just remember to adjust your code accordingly.
+You don't have to use pins P0 and P1. You can use any <a href="assets/pins-short.png" target="_blank">analogue pins for the x and y axes</a>. Just remember to adjust your code accordingly.
 
 ## Coding
 Enter this code in forever:

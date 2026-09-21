@@ -23,7 +23,7 @@ Attach the cable to the Edge Connector or Motor Controller board as follows:
 
 ![Code](wiring.png){width = 600}
 
-You don't have to use pins P14 and P16. You can use any <a href="assets/pins-short.png" target="_blank">Digital pin</a>.. Just remember to adjust your code accordingly.
+You don't have to use pins P14 and P16. You can use any <a href="assets/pins-short.png" target="_blank">Digital pin</a>. Just remember to adjust your code accordingly.
 
 #### Coding
 Add this extension:
