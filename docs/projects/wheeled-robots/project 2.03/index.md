@@ -1,5 +1,7 @@
 # 2.03 - Add Crash Sensors to your Train
 
+![Robot](index.png){ align=right }
+
 In this project you will add some crash sensors to your train.
 
 These will detect when the train has crashed into a wall or something else. You can use these to take evasive action, such as stopping or reversing.
