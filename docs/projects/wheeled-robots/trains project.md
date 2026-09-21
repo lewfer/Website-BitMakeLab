@@ -1,0 +1,2 @@
+# Trains Project
+A series of projects around a train system. This is a great series of projects for newcomers to digital making. Each project introduces a few new digital making and coding skills and guides the student towards creating a complete train system. These projects require additional parts to complement the basic kit.
