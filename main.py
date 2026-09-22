@@ -11,3 +11,16 @@ def define_env(env):
     @env.macro
     def mymacro(s):
         return "hello" + s
+
+
+    @env.macro
+    def linkCard(name, description):
+        # Replace the placeholders with name
+        return f"""<div class="link-card">
+            <a href="../{name.lower()}">
+            <img src="../{name.lower()}/index.jpg" alt="{name}">
+            <div>{name}</div>
+            <p>{description}</p>
+            </a>
+        </div>"""   
+ 

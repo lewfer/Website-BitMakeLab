@@ -21,8 +21,10 @@ nav:
   - Reference: 
     - Overview: reference/overview.md
     - Inputs:
+      - Overview: reference/inputs/overview/index.md
       - Button: reference/inputs/button/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
+      - Keyboard: reference/inputs/keyboard/index.md
     - Outputs:
       - LED: reference/outputs/led/index.md
     - Motors:
@@ -74,5 +76,8 @@ plugins:
   - blog # enables the blog functionality for the site https://squidfunk.github.io/mkdocs-material/setup/setting-up-a-blog/
   - search # enables the search box in the top right of the site
   - macros # gives us the ability to use variables and macrosin our markdown files https://mkdocs-macros-plugin.readthedocs.io
+
+exclude_docs: |
+  - ^*
 
 copyright: Copyright &copy; 2026 - Think Create Learn Ltd. Licensed under the Creative Commons BY-SA-NC-SA licence.

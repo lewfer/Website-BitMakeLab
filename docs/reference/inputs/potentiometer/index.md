@@ -8,7 +8,7 @@ Use it to control things you want to vary over a range of values, such as the sp
 #### Wiring
 Use a GVS cable to connect the sensor.  This has 3 wires, blue, red and black:
 
-![GVS cable](../../assets/gvs-cable.jpg){ width=400 }
+![GVS cable](../../../assets/gvs-cable.jpg){ width=400 }
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
@@ -18,7 +18,7 @@ Wire up as follows, using the Edge Connector or Motor Controller board:
 
 ![Wiring](wiring.png){ width=600 }
 
-You don't have to use pin P0.  You can use any <a href="assets/pins-short.png" target="_blank">analogue pin</a>.  Just remember to adjust your code accordingly.
+You don't have to use pin P0.  You can use any <a href="../../../assets/pins-short.png" target="_blank">analogue pin</a>.  Just remember to adjust your code accordingly.
 
 #### Coding
 
