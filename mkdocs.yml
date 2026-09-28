@@ -12,6 +12,12 @@ theme:
 # Site navigation structure
 nav:
   - Home: index.md
+  - Introduction:
+    - Overview: Introduction/overview.md
+    - student-introduction:
+      - Introduction 0.01 Microbit Basics: Introduction/student-introduction/0.01-microbit-basics/index.md
+      - Introduction 0.02 Microbit Expansion: Introduction/student-introduction/0.02-microbit-expansion/index.md
+      - Introduction 0.03 BitMakeLab System: Introduction/student-introduction/0.03-bitmakelab-system/index.md
   - Projects: 
     - Overview: projects/overview.md
     - Wheeled Robots:
