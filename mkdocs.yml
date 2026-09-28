@@ -41,7 +41,6 @@ nav:
       - Button: reference/inputs/button/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
       - break beam sensor: reference/inputs/break beam sensor/index.md
-      - Alphanumeric LED: reference/inputs/Alphanumeric LED/index.md
       - Froce Sensor: reference/inputs/Force Sensor/index.md
       - Joystick: reference/inputs/Joystick/index.md
       - Light Sensor: reference/inputs/Light Sensor/index.md
@@ -49,6 +48,11 @@ nav:
       - ultrasonic-sensor: reference/inputs/ultrasonic-sensor/index.md
     - Outputs:
       - LED: reference/outputs/led/index.md
+      - Alphanumeric LED: reference/outputs/Alphanumeric LED/index.md
+      - numeric-led: reference/outputs/numeric-led/index.md
+      - 16x2-lcd-display: reference/outputs/16x2-lcd-display/index.md
+      - neopixel-strip: reference/outputs/neopixel-strip/index.md
+
     - Motors:
       - DC Motor: reference/motors/dc-motor/index.md
       - Servo Motor: reference/motors/servo-motor/index.md
