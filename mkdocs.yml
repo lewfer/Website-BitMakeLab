@@ -8,6 +8,8 @@ theme:
     primary: custom # Sets the primary color of the site to a custom color defined in the extra.css file
     accent: custom # Sets the accent color of the site to a custom color defined in the extra.css file
   logo: assets/logo.png
+  font:
+    text: Work Sans
 
 # Site navigation structure
 nav:
@@ -16,8 +18,20 @@ nav:
     - Overview: projects/overview.md
     - Wheeled Robots:
       - Overview: projects/wheeled-robots/overview.md
-      - Project 1.01 - Build a Basic Robot: projects/wheeled-robots/project1.01/index.md
-      - Project 1.02 - Add Lights to your Robot: projects/wheeled-robots/project1.02/index.md
+      - Build a Basic Robot: projects/wheeled-robots/project1.01/index.md
+      - Add Lights to your Robot: projects/wheeled-robots/project1.02/index.md
+      - Add Crash Sensors to your Robot: projects/wheeled-robots/project1.03/index.md
+      - Build a Remote Control Robot: projects/wheeled-robots/project1.04/index.md
+      - Add a Speed Control to your Remote: projects/wheeled-robots/project1.05/index.md
+      - Build a Line Following Robot: projects/wheeled-robots/project1.06/index.md
+      - Build an Obstacle Avoiding Robot: projects/wheeled-robots/project1.07/index.md  
+    - Trains:
+      - Overview: projects/trains/overview.md
+      - Build a Train: projects/trains/project2.01/index.md
+      - Add Lights to your Train: projects/trains/project2.02/index.md
+      - Add Crash Sensors to your Train: projects/trains/project2.03/index.md
+      - Add an Ultrasonic Sensor to your Train: projects/trains/project2.04/index.md
+      - Build a Signalling System for Trains: projects/trains/project2.05/index.md
   - Reference: 
     - Overview: reference/overview.md
     - Inputs:
@@ -25,9 +39,18 @@ nav:
       - Button: reference/inputs/button/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
       - Keyboard: reference/inputs/keyboard/index.md
+      - Ultrasonic Sensor: reference/inputs/ultrasonic-sensor/index.md
+      - Line Follow Sensor: reference/inputs/line-follow-sensor/index.md
+      - Light Sensor: reference/inputs/light-sensor/index.md
+      - Joystick: reference/inputs/adafruit-joystick/index.md
+      - Force Sensor: reference/inputs/force-sensor/index.md
+      - Break Beam Sensor: reference/inputs/break-beam-sensor/index.md
     - Outputs:
+      - Overview: reference/outputs/overview/index.md
       - LED: reference/outputs/led/index.md
+      - Alphanumeric LED: reference/outputs/alphanumeric-led/index.md
     - Motors:
+      - Overview: reference/motors/overview/index.md
       - DC Motor: reference/motors/dc-motor/index.md
       - Servo Motor: reference/motors/servo-motor/index.md
     - Working with Data:

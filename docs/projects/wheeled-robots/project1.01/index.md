@@ -9,6 +9,4 @@ In subsequent projects you will be able to extend this robot, adding lights, sen
 
 [Student Worksheet]({{ bmlgithubpages }}/projects/Project 1.01 - Build a Basic Robot/Project 1.01 - Build a Basic Robot.pdf)
 
-[Tutor Notes]({{ bmlgithubpages }}/projects/Tutor Notes 01 - Wheeled Robots/Tutor Notes - Projects 1.00 - Wheeled Robots.pdf)
-
 [Code Solutions]({{ bmlgithub }}/projects/Project 1.01 - Build a Basic Robot/code)

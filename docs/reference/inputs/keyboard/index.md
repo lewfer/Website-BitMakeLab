@@ -1,4 +1,4 @@
-### Keyboard
+
 When you need lots of buttons in your project, you can soon run out of digital pins.
 
 The keyboard connector allows you to connect multiple buttons to a single **analogue** pin.
@@ -83,5 +83,14 @@ The following table summarises the values:
 | Button 4	| 3	| 3 kΩ	                  |	0.396 V	   | 123     |
 | Button 5	| 4	| 4 kΩ	                  |	0.508 V	   | 157     |
 | Button 6	| 5	| 5 kΩ	                  |	0.611 V	   | 189     |
+
+#### Project Idea
+Using some simple maths, compute a tone to play a different note when different keys are pressed.  This will make a simple piano keyboard:
+
+![Project Idea](project.png)
+
+Tones correspond to different sound frequencies.  You can find out more here:
+
+[Note Frequencies](https://www.skoove.com/blog/note-frequencies/)
 
 <br/>

@@ -4,12 +4,13 @@
   --md-typeset-a-color: #DC4A26;
 }
 
-/* Example 2: Target specific HTML elements directly */
-h1 {
-  font-weight: 800;
-  letter-spacing: -0.02em;
+p {
+  font-size: 0.65rem; 
 }
 
+.md-typeset h1, .md-typeset h2 {
+  font-weight: 800;
+}
 
 .md-typeset__table table {
     border-collapse: collapse;
