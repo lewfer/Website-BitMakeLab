@@ -12,13 +12,16 @@ def define_env(env):
     def mymacro(s):
         return "hello" + s
 
+    def replaceSpaces(s):
+        return s.replace(" ", "-")
 
     @env.macro
     def linkCard(name, description):
         # Replace the placeholders with name
+        clean_name = replaceSpaces(name)
         return f"""<div class="link-card">
-            <a href="../{name.lower()}">
-            <img src="../{name.lower()}/index.jpg" alt="{name}">
+            <a href="../{clean_name.lower()}">
+            <img src="../{clean_name.lower()}/index.jpg" alt="{name}">
             <div>{name}</div>
             <p>{description}</p>
             </a>

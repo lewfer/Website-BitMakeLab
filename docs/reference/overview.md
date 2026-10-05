@@ -21,8 +21,16 @@ A collection of reference sheets, each of which tackles a single component or te
     </div>
 
     <div class="link-card">
+        <a href="../motors/overview">
+        <img src="../motors.jpg" alt="Motors">
+        <div>Motors</div>
+        <p>Different types of motor</p>
+        </a>
+    </div>
+
+    <div class="link-card">
         <a href="../working-with-data/overview">
-        <img src="../working-with-data.jpg" alt="Working with Data">
+        <img src="../working-with-data.png" alt="Working with Data">
         <div>Working with Data</div>
         <p>Collecting and processing data</p>
         </a>

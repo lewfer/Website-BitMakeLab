@@ -1,10 +1,10 @@
-### Light Sensor
 The light sensor can be used to detect the amount of light falling on it.
 
 Use it to turn on an LED when it gets dark, or use two to get a robot to follow a torch!
 
-#### Quick Reference
-### Wiring
+![Light Sensor](index.jpg)
+
+## Wiring
 Use a GVS cable to connect the sensor. This has 3 wires, blue, red and black:
 
 ![Code](../../../assets/gvs-cable.jpg)
@@ -18,13 +18,13 @@ Wire up as follows, using the Edge Connector or Motor Controller board:
 
 Make sure you connect the cable the right way round, with the black wire connecting to the black pin on both ends.
 
-On the edge connector it should look like this:
+On the Edge Connector it should look like this:
 
-![Code](wiring.png)
+![Wiring](wiring.png)
 
 You don't have to use pin P0. You can use any analogue pin. Just remember to adjust your code accordingly.
 
-#### Basic Coding
+## Basic Coding
 Enter this code in forever:
 
 ![Code](code-serial-out.png)

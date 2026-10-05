@@ -1,14 +1,12 @@
-### Ultrasonic Sensor
 The ultrasonic sensor can be used to measure distances
 
 Use it to prevent robots from crashing, detect people approaching and much more!
 
-#### Tutorial
+## Tutorial
 Watch this video for a complete tutorial:
 <video controls class="indent" poster="index.jpg"><source src="ultrasonic.mp4" type="video/mp4"></video>
 
-#### Quick Reference
-#### Wiring
+## Wiring
 Connect the special cable to the ultrasonic sensor. The red wire should connect to the VCC pin:
 
 ![Wiring](wire-sensor.png){ width=400}
@@ -23,9 +21,9 @@ Attach the cable to the Edge Connector or Motor Controller board as follows:
 
 ![Code](wiring.png){width = 600}
 
-You don't have to use pins P14 and P16. You can use any <a href="assets/pins-short.png" target="_blank">Digital pin</a>. Just remember to adjust your code accordingly.
+You don't have to use pins P14 and P16. You can use any <a href="../../../assets/pins-short.png" target="_blank">Digital pin</a>. Just remember to adjust your code accordingly.
 
-#### Coding
+## Coding
 Add this extension:
 
 ![Code](extension.png)

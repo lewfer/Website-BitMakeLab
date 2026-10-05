@@ -5,7 +5,7 @@ The keyboard connector allows you to connect multiple buttons to a single **anal
 
 ![Keyboard](index.jpg)
 
-#### Wiring
+## Wiring
 Use a GVS cable to connect the keyboard connector to an analogy pin.  The GVS cable has 3 wires, blue, red and black:
 
 ![GVS cable](../../../assets/gvs-cable.jpg){ width=400 }
@@ -32,7 +32,7 @@ You can also use the 5-button ADKeypad from Elekfreaks.  Connect it as follows:
 
 ![Wiring for ADKeypad](wiring-adkeypad.jpg){ width=600 }
 
-#### Coding
+## Coding
 
 Enter this code in **forever**:
 
@@ -48,7 +48,7 @@ To see the data, click on Show data Device:
 
 Press each button in turn.  You should see the button number appear.
 
-#### How it works
+## How it works
 The keypad connector works using the concept of a voltage divider.  The 3.3V of the Microbit is effectively split down 2 paths.  Some current flows down the 22k resistor route and some flows through the series of 1k resistors, depending on which button is pressed:
 
 ![Voltage Divider](voltage-divider.png){ height=600 }
@@ -84,7 +84,7 @@ The following table summarises the values:
 | Button 5	| 4	| 4 kΩ	                  |	0.508 V	   | 157     |
 | Button 6	| 5	| 5 kΩ	                  |	0.611 V	   | 189     |
 
-#### Project Idea
+## Project Idea
 Using some simple maths, compute a tone to play a different note when different keys are pressed.  This will make a simple piano keyboard:
 
 ![Project Idea](project.png)

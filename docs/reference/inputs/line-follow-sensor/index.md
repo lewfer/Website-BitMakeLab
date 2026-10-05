@@ -1,10 +1,10 @@
-#### Line Follow Sensor
 The line following sensor can detect light or dark areas in close proximity. There are 2 sensors, allowing a reading on the left and right.
 
 The line following sensor is primarily used to create line following robots.
 
-#### Quick Reference
-### What is it
+![Line Follow Sensor](index.jpg)
+
+## What is it
 The line following sensor is actually made up of two light sensors and two lights:
 
 ![Code](works1.png)
@@ -13,7 +13,7 @@ The light is an Infrared (IR) light. This is a light that can’t be seen by hum
 
 ![Code](works2.png)
 
-### Wiring
+## Wiring
 Use a special cable to connect the sensor. This has 4 wires, white, pink, red and black:
 
 ![line follow cable](../../../assets/line-follow-cable.jpg)
@@ -32,7 +32,7 @@ On the Motor Controller Board it should look like this:
 
 ![Code](wiring.png)
 
-### Coding
+## Coding
 Enter this code in the forever block:
 
 ![Code](code1.png)
@@ -55,6 +55,6 @@ Move the sensor over a black line about 1cm thick on a white sheet of paper. Not
 
 By comparaing the two values you can find out where the line is.
 
-This sensor is used in the <a href="assets/pins-short.png" target="_blank">line following robot activity</a>.
+This sensor is used in the <a href="../../../assets/pins-short.png" target="_blank">line following robot activity</a>.
 
 <br/>

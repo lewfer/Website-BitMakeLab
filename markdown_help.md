@@ -78,11 +78,18 @@ Straight link:
 Link with title on hover:
 [BBC](https://www.bbc.co.uk "British news site")
 
+Link in new tab:
+[BBC](https://www.bbc.co.uk){target=_blank}
+
 Quickly embed url or email address:
 
 <https://www.bbc.co.uk>
 
 <me@email.com>
+
+Inline links:
+<a href="../../../assets/pins-short.png" target="_blank">analogue pins for the x and y axes</a>.
+
 
 
 # Images
@@ -118,6 +125,14 @@ Alignment:
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+
+E.g.
+
+| Break Beam Sensor     | micro:bit Connection              |
+| :-------------------- | :-------------------------------- |
+| Sensor (with 3 wires) | P13 3-pin connector               |
+| LED (with 2 wires)    | Any GND and 3V3 pins, e.g. on P7 |
+
 
 # Horizontal rule
 
@@ -156,10 +171,16 @@ Link to the heading from somewhere else:
 - [ ] Buy dog
 - [ ] Name dog
 
+# Custom variables
+Use {{ bmlgithub }} to reference the main Github for Bitmakelab in a document.  Using this in a link will open a tab in Github:
 
+[2D Parts]({{ bmlgithub }}/kit making/2D parts){target=_blank}
 
+Use {{ bmlgithubpages }} to reference the Githubpages for Bitmakelab in a document.  Using this in a link will open a tab direct to the resource being linked to:
 
+[Student Worksheet]({{ bmlgithubpages }}/introduction/Introduction 0.02 - Microbit Expansion/Introduction 0.02 - Microbit Expansion.pdf)
 
+See mkdocs.yml for definitions of these and to add other ones.
 
 
 

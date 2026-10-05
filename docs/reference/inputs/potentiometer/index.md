@@ -1,11 +1,10 @@
-### Potentiometer
 A potentiometer provides an analogue input, which means that it can provide a range of input values, not just 0 and 1 like a digital input like a button.
 
 Use it to control things you want to vary over a range of values, such as the speed of a motor, the intensity of a light and much more!
 
 ![Potentiometer](index.jpg)
 
-#### Wiring
+## Wiring
 Use a GVS cable to connect the sensor.  This has 3 wires, blue, red and black:
 
 ![GVS cable](../../../assets/gvs-cable.jpg){ width=400 }
@@ -20,11 +19,11 @@ Wire up as follows, using the Edge Connector or Motor Controller board:
 
 You don't have to use pin P0.  You can use any <a href="../../../assets/pins-short.png" target="_blank">analogue pin</a>.  Just remember to adjust your code accordingly.
 
-#### Coding
+## Coding
 
 Enter this code in **forever**:
 
-![Code](code-serial-out.png)
+
 
 The Serial blocks can be found in Advanced.
 

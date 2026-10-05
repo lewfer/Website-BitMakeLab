@@ -13,7 +13,10 @@ theme:
 
 # Site navigation structure
 nav:
-  - Home: index.md
+  - Introduction: 
+    - Overview: introduction/overview.md
+    - Microbit Basics: introduction/microbit-basics/index.md
+    - Microbit Expansion: introduction/microbit-expansion/index.md
   - Projects: 
     - Overview: projects/overview.md
     - Wheeled Robots:
@@ -37,29 +40,46 @@ nav:
     - Inputs:
       - Overview: reference/inputs/overview/index.md
       - Button: reference/inputs/button/index.md
+      - Crash Sensor: reference/inputs/crash-sensor/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
-      - Keyboard: reference/inputs/keyboard/index.md
       - Ultrasonic Sensor: reference/inputs/ultrasonic-sensor/index.md
       - Line Follow Sensor: reference/inputs/line-follow-sensor/index.md
       - Light Sensor: reference/inputs/light-sensor/index.md
-      - Joystick: reference/inputs/adafruit-joystick/index.md
+      - Joystick: reference/inputs/joystick/index.md
       - Force Sensor: reference/inputs/force-sensor/index.md
+      - Bend Sensor: reference/inputs/bend-sensor/index.md
       - Break Beam Sensor: reference/inputs/break-beam-sensor/index.md
+      - Colour Sensor: reference/inputs/colour-sensor/index.md
+      - Motion Sensor: reference/inputs/motion-sensor/index.md
+      - Weather Sensor: reference/inputs/weather-sensor/index.md
+      - Keyboard: reference/inputs/keyboard/index.md
+      - Soil Moisture Sensor: reference/inputs/soil-moisture-sensor/index.md
+      - Contact Switch: reference/inputs/contact-switch/index.md
+      - Rotary Encoder: reference/inputs/rotary-encoder/index.md
+      - Tilt Switch: reference/inputs/tilt-switch/index.md
+      - Hall Sensor: reference/inputs/hall-sensor/index.md
     - Outputs:
       - Overview: reference/outputs/overview/index.md
       - LED: reference/outputs/led/index.md
+      - Numeric LED: reference/outputs/numeric-led/index.md
       - Alphanumeric LED: reference/outputs/alphanumeric-led/index.md
+      - 16x2 LCD: reference/outputs/16x2-lcd/index.md
+      - Neopixel Strip: reference/outputs/neopixel-strip/index.md
+      - OLED Display: reference/outputs/oled-display/index.md
     - Motors:
       - Overview: reference/motors/overview/index.md
       - DC Motor: reference/motors/dc-motor/index.md
       - Servo Motor: reference/motors/servo-motor/index.md
+      - Hobby Stepper Motor: reference/motors/hobby-stepper-motor/index.md
+      - Stepper Motor: reference/motors/stepper-motor/index.md
+      - DC Motor DRV8833: reference/motors/dc-motor-drv8833/index.md      
     - Working with Data:
       - Serial output: reference/working-with-data/serial-output/index.md
       - Data logging: reference/working-with-data/data-logging/index.md
   - Make the kit:
       - Overview: make-the-kit/overview.md
-  - Blog:
-    - blog/index.md
+#  - Blog:
+#    - blog/index.md
   - About: about.md  
 
 extra_css:
