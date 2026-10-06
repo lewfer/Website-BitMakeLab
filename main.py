@@ -20,10 +20,10 @@ def define_env(env):
         # Replace the placeholders with name
         clean_name = replaceSpaces(name)
         return f"""<div class="link-card">
-            <a href="../{clean_name.lower()}">
-            <img src="../{clean_name.lower()}/index.jpg" alt="{name}">
+            <a href="{clean_name.lower()}">
+            <img src="{clean_name.lower()}/index.jpg" alt="{name}">
             <div>{name}</div>
             <p>{description}</p>
             </a>
         </div>"""   
- 
+

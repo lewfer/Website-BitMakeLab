@@ -14,31 +14,39 @@ theme:
 # Site navigation structure
 nav:
   - Introduction: 
-    - Overview: introduction/overview.md
+    - Overview: introduction/index.md
     - Microbit Basics: introduction/microbit-basics/index.md
     - Microbit Expansion: introduction/microbit-expansion/index.md
   - Projects: 
-    - Overview: projects/overview.md
+    - Overview: projects/index.md
     - Wheeled Robots:
-      - Overview: projects/wheeled-robots/overview.md
-      - Build a Basic Robot: projects/wheeled-robots/project1.01/index.md
-      - Add Lights to your Robot: projects/wheeled-robots/project1.02/index.md
-      - Add Crash Sensors to your Robot: projects/wheeled-robots/project1.03/index.md
-      - Build a Remote Control Robot: projects/wheeled-robots/project1.04/index.md
-      - Add a Speed Control to your Remote: projects/wheeled-robots/project1.05/index.md
-      - Build a Line Following Robot: projects/wheeled-robots/project1.06/index.md
-      - Build an Obstacle Avoiding Robot: projects/wheeled-robots/project1.07/index.md  
+      - Overview: projects/wheeled-robots/index.md
+      - Build a Basic Robot: projects/wheeled-robots/project-1.01/index.md
+      - Add Lights to your Robot: projects/wheeled-robots/project-1.02/index.md
+      - Add Crash Sensors to your Robot: projects/wheeled-robots/project-1.03/index.md
+      - Build a Remote Control Robot: projects/wheeled-robots/project-1.04/index.md
+      - Add a Speed Control to your Remote: projects/wheeled-robots/project-1.05/index.md
+      - Build a Line Following Robot: projects/wheeled-robots/project-1.06/index.md
+      - Build an Obstacle Avoiding Robot: projects/wheeled-robots/project-1.07/index.md  
     - Trains:
-      - Overview: projects/trains/overview.md
-      - Build a Train: projects/trains/project2.01/index.md
-      - Add Lights to your Train: projects/trains/project2.02/index.md
-      - Add Crash Sensors to your Train: projects/trains/project2.03/index.md
-      - Add an Ultrasonic Sensor to your Train: projects/trains/project2.04/index.md
-      - Build a Signalling System for Trains: projects/trains/project2.05/index.md
+      - Overview: projects/trains/index.md
+      - Build a Train: projects/trains/project-2.01/index.md
+      - Add Lights to your Train: projects/trains/project-2.02/index.md
+      - Add Crash Sensors to your Train: projects/trains/project-2.03/index.md
+      - Add an Ultrasonic Sensor to your Train: projects/trains/project-2.04/index.md
+      - Build a Signalling System for Trains: projects/trains/project-2.05/index.md
+    - Steering Robots:
+      - Overview: projects/steering-robots/index.md
+      - Build a Steering Robot: projects/steering-robots/project-3.01/index.md
+    - Handheld Games:
+      - Overview: projects/handheld-games/index.md
+      - Build a Reaction Game: projects/handheld-games/project-4.01/index.md
+      - Build a Colour Reaction Game: projects/handheld-games/project-4.02/index.md
+      - Build a Memory Game: projects/handheld-games/project-4.03/index.md
   - Reference: 
-    - Overview: reference/overview.md
+    - Overview: reference/index.md
     - Inputs:
-      - Overview: reference/inputs/overview/index.md
+      - Overview: reference/inputs/index.md
       - Button: reference/inputs/button/index.md
       - Crash Sensor: reference/inputs/crash-sensor/index.md
       - Potentiometer: reference/inputs/potentiometer/index.md
@@ -59,7 +67,7 @@ nav:
       - Tilt Switch: reference/inputs/tilt-switch/index.md
       - Hall Sensor: reference/inputs/hall-sensor/index.md
     - Outputs:
-      - Overview: reference/outputs/overview/index.md
+      - Overview: reference/outputs/index.md
       - LED: reference/outputs/led/index.md
       - Numeric LED: reference/outputs/numeric-led/index.md
       - Alphanumeric LED: reference/outputs/alphanumeric-led/index.md
@@ -67,17 +75,18 @@ nav:
       - Neopixel Strip: reference/outputs/neopixel-strip/index.md
       - OLED Display: reference/outputs/oled-display/index.md
     - Motors:
-      - Overview: reference/motors/overview/index.md
+      - Overview: reference/motors/index.md
       - DC Motor: reference/motors/dc-motor/index.md
       - Servo Motor: reference/motors/servo-motor/index.md
       - Hobby Stepper Motor: reference/motors/hobby-stepper-motor/index.md
       - Stepper Motor: reference/motors/stepper-motor/index.md
       - DC Motor DRV8833: reference/motors/dc-motor-drv8833/index.md      
     - Working with Data:
+      - Overview: reference/working-with-data/index.md
       - Serial output: reference/working-with-data/serial-output/index.md
       - Data logging: reference/working-with-data/data-logging/index.md
   - Make the kit:
-      - Overview: make-the-kit/overview.md
+      - Overview: make-the-kit/index.md
 #  - Blog:
 #    - blog/index.md
   - About: about.md  
