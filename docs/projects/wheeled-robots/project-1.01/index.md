@@ -7,6 +7,17 @@ Wheeled robots are a fun way to get started in digital making. In this project y
 
 In subsequent projects you will be able to extend this robot, adding lights, sensors and a remote control.
 
-[Student Worksheet]({{ bmlgithubpages }}/projects/Project 1.01 - Build a Basic Robot/Project 1.01 - Build a Basic Robot.pdf)
+## Worksheets
 
-[Code Solutions]({{ bmlgithub }}/projects/Project 1.01 - Build a Basic Robot/code)
+[Student Worksheet](Project 1.01 - Build a Basic Robot.pdf){ target=_blank }
+
+## Code Solutions
+
+[Basic robot movements](code/microbit-basic-robot.hex)
+
+[Challenge solution: Move backwards](code/microbit-challenge-solution-basic-robot-move_backwards.hex)
+
+[Challenge solution: Square](code/microbit-challenge-solution-basic-robot-square.hex)
+
+[Challenge solution: Dance](code/microbit-challenge-solution-basic-robot-dance.hex)
+

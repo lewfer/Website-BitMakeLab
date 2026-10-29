@@ -1,12 +1,11 @@
-### Alphanumeric sensor
+## Alphanumeric sensor
 The alphanumeric LED can be used to display up to 4 characters (letters or numbers).
 
 Use it to display short messages, counters, and much more!
 
-### Quick Reference
-These instructions work with the Elecfreaks alphanumeric display, but not with the Adafruit ones.
+These instructions work with the Elecfreaks alphanumeric display.  See the bottom of this page for instructions for the Adafruit display.
 
-### Wiring
+## Wiring
 Use the I2C cable to connect the sensor. This has 4 wires in 2 pairs: orange-yellow and red-black:
 
 ![Code](../../../assets/i2c-cable.jpg)
@@ -29,10 +28,10 @@ On the motor controller it should look like this:
 
 ![Code](wiring-motor.png)
 
-#### Coding
+## Coding
 You will need to add an extension to get additional blocks for the display. Click on the extensions block:
 
-![Code](../../../assets/block-extension.png)
+![Code](../../../assets/block-extensions.png)
 
 Then search for "lcd":
 
@@ -55,5 +54,14 @@ Download the code to the microbit.
 The code shows a simple message:
 
 ![Code](message.jpg)
+
+## Adafruit display
+If you are using the Adafruit display, use the extension that can be found here:
+
+github:lewfer/mb-alpha-led
+
+Then code it as follows:
+
+![Code](adafruit-code.png)
 
 <br/>

@@ -39,7 +39,7 @@ If you are using the Adafruit weather sensor, the wiring is a little different:
 
 You will need to add an extension to get additional blocks for the sensor.  Click on the extensions block:
 
-![Extension](../../../assets/block-extension.png)
+![Extension](../../../assets/block-extensions.png)
 
 Then search for "bme280":
 

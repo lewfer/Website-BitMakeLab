@@ -1,7 +1,8 @@
-site_name: BitMakeLab
+site_name: BitMake Lab
 site_url: https://thinkcreatelearn.co.uk/bitmake
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs  # Enables the tabbed navigation style for the site
   palette:
@@ -15,10 +16,12 @@ theme:
 nav:
   - Introduction: 
     - Overview: introduction/index.md
-    - Microbit Basics: introduction/microbit-basics/index.md
-    - Microbit Expansion: introduction/microbit-expansion/index.md
   - Projects: 
     - Overview: projects/index.md
+    - Microbit:
+      - Overview: projects/microbit/index.md
+      - Microbit Basics: projects/microbit/microbit-basics/index.md
+      - Microbit Expansion: projects/microbit/microbit-expansion/index.md
     - Wheeled Robots:
       - Overview: projects/wheeled-robots/index.md
       - Build a Basic Robot: projects/wheeled-robots/project-1.01/index.md
@@ -60,18 +63,21 @@ nav:
       - Colour Sensor: reference/inputs/colour-sensor/index.md
       - Motion Sensor: reference/inputs/motion-sensor/index.md
       - Weather Sensor: reference/inputs/weather-sensor/index.md
-      - Keyboard: reference/inputs/keyboard/index.md
+      - 5-Button Keypad: reference/inputs/5-button-keypad/index.md
+      - 10-Button Keypad: reference/inputs/10-button-keypad/index.md
+      - DIY Keypad: reference/inputs/diy-keypad/index.md
       - Soil Moisture Sensor: reference/inputs/soil-moisture-sensor/index.md
       - Contact Switch: reference/inputs/contact-switch/index.md
-      - Rotary Encoder: reference/inputs/rotary-encoder/index.md
+      - Rotary Encoder: reference/inputs/rotary-encoder-/index.md
       - Tilt Switch: reference/inputs/tilt-switch/index.md
+      - On Off Switch: reference/inputs/on-off-switch/index.md
       - Hall Sensor: reference/inputs/hall-sensor/index.md
     - Outputs:
       - Overview: reference/outputs/index.md
       - LED: reference/outputs/led/index.md
       - Numeric LED: reference/outputs/numeric-led/index.md
       - Alphanumeric LED: reference/outputs/alphanumeric-led/index.md
-      - 16x2 LCD: reference/outputs/16x2-lcd/index.md
+      - 16x2 LCD Display: reference/outputs/16x2-lcd-display/index.md
       - Neopixel Strip: reference/outputs/neopixel-strip/index.md
       - OLED Display: reference/outputs/oled-display/index.md
     - Motors:
@@ -80,11 +86,13 @@ nav:
       - Servo Motor: reference/motors/servo-motor/index.md
       - Hobby Stepper Motor: reference/motors/hobby-stepper-motor/index.md
       - Stepper Motor: reference/motors/stepper-motor/index.md
-      - DC Motor DRV8833: reference/motors/dc-motor-drv8833/index.md      
+      - DC Motor DRV8833: reference/motors/dc-motor-drv8833/index.md   
+      - Solenoid: reference/motors/solenoid/index.md      
     - Working with Data:
       - Overview: reference/working-with-data/index.md
       - Serial output: reference/working-with-data/serial-output/index.md
       - Data logging: reference/working-with-data/data-logging/index.md
+    - Extensions: reference/extensions/index.md
   - Make the kit:
       - Overview: make-the-kit/index.md
 #  - Blog:
@@ -130,6 +138,7 @@ plugins:
   - macros # gives us the ability to use variables and macrosin our markdown files https://mkdocs-macros-plugin.readthedocs.io
 
 exclude_docs: |
-  - ^*
+  ^*
+  _*
 
 copyright: Copyright &copy; 2026 - Think Create Learn Ltd. Licensed under the Creative Commons BY-SA-NC-SA licence.

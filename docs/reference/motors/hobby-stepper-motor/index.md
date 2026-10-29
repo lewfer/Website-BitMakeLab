@@ -29,7 +29,7 @@ To use the stepper motor you need to add the extension.
 
 To add the extension, first click on Extensions:
 
-![GS cable](../../../assets/block-extension.png){ width=400 }
+![Extensions block](../../../assets/block-extensions.png)
 
 Then find and click on the extension:
 

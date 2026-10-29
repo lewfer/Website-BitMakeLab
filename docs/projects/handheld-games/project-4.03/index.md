@@ -10,6 +10,10 @@ game behaves.
 
 The game is like the game called Simon that requires the player to remember a sequence of colours shown to them.  The sequence gets longer as the game progresses!
 
-[Student Worksheet]({{ bmlgithubpages }}/projects/Project 4.03 - Build a Memory Game/Project 4.03 - Build a Memory Game.pdf)
+## Worksheets
 
-[Code Solutions]({{ bmlgithub }}/projects/Project 4.03 - Build a Memory Game/code)
+[Student Worksheet](Project 4.03 - Build a Memory Game.pdf){ target=_blank }
+
+## Code Solutions
+
+[Challenge solution](code/microbit-simon.hex)

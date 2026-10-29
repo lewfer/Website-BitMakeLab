@@ -28,16 +28,22 @@
 
   {{ linkCard("Weather Sensor", "Measure the temperature, humidity and pressure.") }}
 
-  {{ linkCard("Keyboard", "Allows many buttons to be controlled by a single analog pin.") }}
+  {{ linkCard("5-Button Keypad", "Allows 5 buttons to be controlled by a single analog pin.") }}
+
+  {{ linkCard("10-Button Keypad", "Allows 10 buttons to be controlled by a single analog pin.") }}
+
+  {{ linkCard("DIY keypad", "Allows many buttons to be controlled by a single analog pin.") }}
 
   {{ linkCard("Soil Moisture Sensor", "Detects moisture in soil.") }}
 
   {{ linkCard("Contact Switch", "Detects when a door is open or closed.") }}
   
-  {{ linkCard("Rotary Encoder", "Turn the knob in either direction to control things.") }}
+  {{ linkCard("Rotary Encoder ", "Turn the knob in either direction to control things.") }}
   
   {{ linkCard("Tilt Switch", "Detects when something is tilted.") }}
-  
+
+  {{ linkCard("On-Off Switch", "A switch that can be either on or off.") }}
+    
   {{ linkCard("Hall Sensor", "Detects when a magnet passes it.") }}
   
         

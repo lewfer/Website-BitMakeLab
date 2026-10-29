@@ -4,6 +4,8 @@ BitMakeLab is a system of electronic and mechanical parts, combined with quality
 
 <div class="link-grid">
 
+    {{ linkCard("Microbit", "Introduction to the Microbit with BitMake Lab") }}
+
     {{ linkCard("Wheeled Robots", "Simple 3-wheeled robots") }}
     
     {{ linkCard("Trains", "Trains and signals") }}

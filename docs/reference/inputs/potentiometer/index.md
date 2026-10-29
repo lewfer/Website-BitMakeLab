@@ -23,7 +23,7 @@ You don't have to use pin P0.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code in **forever**:
 
-
+![Serial](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.
 

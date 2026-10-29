@@ -8,6 +8,12 @@ In this project you will build a simple electronic game. But it won't be screen-
 You will construct it from various components and use a Microbit to code how the
 game behaves.
 
-[Student Worksheet]({{ bmlgithubpages }}/projects/Project 4.01 - Build a Reaction Game/Project 4.01 - Build a Reaction Game.pdf)
+## Worksheets
 
-[Code Solutions]({{ bmlgithub }}/projects/Project 4.01 - Build a Reaction Game/code)
+[Student Worksheet](Project 4.01 - Build a Reaction Game.pdf){ target=_blank }
+
+## Code Solutions
+
+[Basic game](code/microbit-reaction-game.hex)
+
+[Challenge solution](code/microbit-reaction-game-solution.hex)

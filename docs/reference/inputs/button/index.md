@@ -36,7 +36,7 @@ The bitmake extension makes it a bit easier to work with buttons and other basic
 
 To add the extension, first click on Extensions:
 
-![GS cable](../../../assets/block-extension.png){ width=400 }
+![Extensions block](../../../assets/block-extensions.png)
 
 Then enter the URL for the extension:
 

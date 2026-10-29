@@ -4,10 +4,10 @@ Use it to display messages and images on a range of projets.
 
 ![OLED](index.jpg)
 
-### Wiring
+## Wiring
 Use the I2C cable to connect the sensor. This has 4 wires in 2 pairs: orange-yellow and red-black:
 
-![Code](../../../assets/i2c-cable.jpg)
+![Cable](../../../assets/i2c-cable.jpg)
 
 Wire up as follows, using the Edge Connector or Motor Controller board:
 
@@ -27,22 +27,22 @@ On the motor controller it should look like this:
 
 ![Wiring](wiring-motor.png)
 
-#### Coding
+## Coding
 You will need to add an extension to get additional blocks for the display. Click on the extensions block:
 
-![Code](../../../assets/block-extension.png)
+![Extension block](../../../assets/block-extensions.png)
 
-Then search for "lcd":
+Then search for "oled":
 
-![Code](extensions-search.png)
+![Search extension](extensions-search.png)
 
 Then click on the OLED12864_I2C extension:
 
-![Code](oled-extension.png)
+![OLED Extension](oled-extension.png)
 
 You should see a new block appear:
 
-![Code](oled-block.png)
+![OLED block](oled-block.png)
 
 Enter this code in on start block:
 
@@ -52,14 +52,14 @@ Download the code to the microbit.
 
 The code shows a simple message in a rectandle, with a dot in the middle of the screen:
 
-![Code](display-zoom.jpg)
+![Display](display-zoom.jpg)
 
 By default, the extension puts the display in "zoom" mode, which reduces the resolution to 64x32.  This lower resolution reduces the amount of memory needed for the display.
 
 You can switch off zoom mode and get the full 128x64 resolution, but of course text and pixels will be smaller:
 
-![Code](code-nozoom.png)
+![Code for no zoon](code-nozoom.png)
 
-![Code](display-nozoom.jpg)
+![Display without zoom](display-nozoom.jpg)
 
 <br/>

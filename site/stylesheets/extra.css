@@ -1,11 +1,11 @@
 /* See https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/_colors.scss for a list of all available colours */
 :root {
-  --md-primary-fg-color: #DC4A26;
-  --md-typeset-a-color: #DC4A26;
+  --md-primary-fg-color: #9c1c27;
+  --md-typeset-a-color: #9c1c27;
 }
 
 p {
-  font-size: 0.65rem; 
+  font-size: 0.75rem; 
 }
 
 .md-typeset h1, .md-typeset h2 {
@@ -92,3 +92,14 @@ p {
 .link-card a:active {
     color: inherit
 }
+
+/* Anchor the link container seamlessly into the top row layout */
+.md-header {
+  position: relative;
+}
+
+/* Position the wrapper row relative to the primary top header background */
+.md-header {
+  position: relative;
+}
+

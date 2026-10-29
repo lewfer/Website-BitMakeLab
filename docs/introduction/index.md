@@ -9,24 +9,24 @@ Combining this huge variety of elements together can be very challenging, but th
 
 ![Building a Robot](kid-making.jpg){ align=left }
 
-## BitMakeLab
+## BitMake Lab
 Having spent some years now teaching computer science through digital making, we’ve learnt that students love the process of making things, but can quickly get disheartened when things don’t come together the way they want. Learning resilience and perseverance is part of digital making, but it’s important not to have students fall at the first fence. They need some quick rewards to encourage them to move to the next step. But as they build confidence, they need new challenges to keep their interest as they progress.
 
-We designed BitMakeLab to balance the needs of new students wanting to see quick results, and more experience students wanting to experiment and challenge themselves.
+We designed BitMake Lab to balance the needs of new students wanting to see quick results, and more experience students wanting to experiment and challenge themselves.
 
-BitMakeLab is a set of designs and learning resources that are free to use (under the [CC BY-NC-SA Creative Commons licence](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)). It uses standard components, such as buttons, leds and motors, that are easy to source, but simplifies it the process of using them in projects by adding them to pluggable modules. The designs for these pluggable modules are available to you, so you can make them yourself or even design your own modules.
+BitMake Lab is a set of designs and learning resources that are free to use (under the [CC BY-NC-SA Creative Commons licence](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)). It uses standard components, such as buttons, leds and motors, that are easy to source, but simplifies it the process of using them in projects by adding them to pluggable modules. The designs for these pluggable modules are available to you, so you can make them yourself or even design your own modules.
 
 Flexibility is key. We teach students from kids aged 8 up to adults. We use the same kit for all age groups. What we vary is the pace of delivery, the depth of the theory and the challenges I give the students that go beyond the essential making activity.
 
 Here are a few of the basic components that make up the kit:
 
-![Basic BitMakeLab](basic-kit.jpg){ align=left }
+![Basic BitMake Lab](basic-kit.jpg){ align=left }
 
-## BitMakeLab Projects
-BitMakeLab projects are a collection of worksheets, each of which guides the student through creating a single working item. Each worksheet requires around 1-2 hours to complete.
+## BitMake Lab Projects
+BitMake Lab projects are a collection of worksheets, each of which guides the student through creating a single working item. Each worksheet requires around 1-2 hours to complete.
 
 Individual worksheets may combine into a larger project group which takes students through a series of different approaches and achievements. So, for example, the “Wheeled Robots” project consists of around 7 worksheets, including Building a Basic Robot, Build a Line Following Robot and Build a Remote Control Robot.
 
 Each project also includes a guide for tutors, detailing how to prepare and run the sessions and ideas for adapting them for students who need more of a challenge.
 
-Feel free to dive straight into the [projects page](projects).
+Feel free to dive straight into the [projects page](../projects/index.md).

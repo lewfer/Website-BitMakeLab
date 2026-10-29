@@ -31,7 +31,7 @@ On the motor controller it should look like this:
 
 You will need to add an extension to get additional blocks for the display.  The envirobit extension from Pimoroni is for their envirobit device, which has a colour sensor.  We can use this extension to control our colour sensor.  Click on the extensions block:
 
-![Extension](../../../assets/block-extension.png)
+![Extension](../../../assets/block-extensions.png)
 
 Then search for "enviro":
 
