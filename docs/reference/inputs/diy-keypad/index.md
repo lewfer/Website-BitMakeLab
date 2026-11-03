@@ -32,6 +32,8 @@ It's possible to make a keyboard connector with many more buttons.  Up to 20 sho
 
 Enter this code in **forever**:
 
+[Download code to your computer](code/microbit-keyboard.hex)
+
 ![Code](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.

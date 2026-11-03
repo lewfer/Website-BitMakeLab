@@ -23,6 +23,8 @@ You don't have to use pin P8.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code:
 
+[Download code to your computer](code/microbit-button.hex)
+
 ![Code](code.png)
 
 The block **set pull pin P8 to up** ensures the default state of the pin is the value 1.  When the button is pressed, the value of the pin goes to 0. 
@@ -52,11 +54,15 @@ You should see the following block:
 
 Enter the following code:
 
+[Download code to your computer](code/microbit-button-bitmake.hex)
+
 ![Code](code-bitmake.png)
 
 Download the code to the microbit.
 
 It will work in the same way as the previous code.  The benefit of using the extension is that controlling multiple buttons is neater.  For example, in the code below three buttons are set up.  The button variables are given clear names: middle-c, middle-d and middle-e, which correspond to the musical notes.  It's easy to see which buttons should play which notes:
+
+[Download code to your computer](code/microbit-button-bitmake-music.hex)
 
 ![Code](code-bitmake-music.png)
 

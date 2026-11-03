@@ -23,6 +23,8 @@ You don't have to use pin P0.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code in **forever**:
 
+[Download code to your computer](code/microbit-potentiometer-serial-out.hex)
+
 ![Serial](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.
@@ -38,6 +40,8 @@ You should see some numbers and a graph. These show the position of the potentio
 ![Data](data.png)
 
 You can use these values to control other things.  For example, in the code below, we can use this to control the bar graph function of the Microbit:
+
+[Download code to your computer](code/microbit-potentiometer-bar-graph.hex)
 
 ![Bar graph](code-bar-graph.png)
 

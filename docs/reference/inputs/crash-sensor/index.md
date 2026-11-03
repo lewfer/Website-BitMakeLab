@@ -23,6 +23,9 @@ You don't have to use pin P8.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code:
 
+[Download code to your computer](code/microbit-crash-sensor.hex)
+
+
 ![Code](code.png)
 
 The block **set pull pin P8 to up** ensures the default state of the pin is the value 1.  When the button is pressed, the value of the pin goes to 0. 
@@ -51,6 +54,8 @@ You should see the following block:
 ![Block](bitmake-block.png)
 
 Enter the following code:
+
+[Download code to your computer](code/microbit-crash-sensor-bitmake.hex)
 
 ![Code](code-bitmake.png)
 

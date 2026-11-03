@@ -22,6 +22,8 @@ You don't have to use pin P0.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code in **forever**:
 
+[Download code to your computer](code/microbit-bend-sensor-serial-out.hex)
+
 ![Code](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.
@@ -39,6 +41,8 @@ You should see some numbers and a graph. These show the amount of bend:
 Bend the sensor and watch the values change.  Make sure you don't bend it too much - bending to 90 degrees is fine.
 
 Note down the minimum and maximum values recorded.  In my example above, the range is 31 to 123.  You can use these values to control other things.  For example, in the code below, we can use this to control the bar graph function of the Microbit:
+
+[Download code to your computer](code/microbit-bend-sensor-percentage.hex)
 
 ![Code Percent](code-percent.png)
 

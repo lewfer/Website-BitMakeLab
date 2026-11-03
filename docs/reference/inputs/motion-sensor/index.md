@@ -22,6 +22,8 @@ You don't have to use pin P8. You can use any <a href="../../../assets/pins-shor
 ## Coding
 Enter this code:
 
+[Download code to your computer](code/microbit-motion-sensor.hex)
+
 ![Code](code.png)
 
 Download the code to the microbit.

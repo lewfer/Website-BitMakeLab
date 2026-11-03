@@ -40,6 +40,8 @@ You should see a new block appear:
 
 Enter this code:
 
+[Download code to your computer](code/microbit-rotary-encoder-bar-graph.hex)
+
 ![Code](code.png)
 
 Download the code to the microbit.

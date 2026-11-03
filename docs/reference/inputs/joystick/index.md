@@ -24,6 +24,8 @@ You don't have to use pins P0 and P1. You can use any <a href="../../../assets/p
 ## Coding
 Enter this code in forever:
 
+[Download code to your computer](code/microbit-joystick.hex)
+
 ![Code](code1.png)
 
 The Serial blocks can be found in Advanced.
@@ -39,5 +41,9 @@ You should see some pairs of numbers and a graph. Eacy pair shows the x and y ax
 ![Code](data.png)
 
 You can use these values to control other things. For example, you could use the y axis to control the speed of a robot and the x axis to control the left-right movement.
+
+The joystick has a built-in button, which can be accessed by pressing down on the knob.  Here you can find some code that accesses the button:
+
+[Download code to your computer](code/microbit-joystick-with-button.hex)
 
 <br/>

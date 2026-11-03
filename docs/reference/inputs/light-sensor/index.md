@@ -27,6 +27,8 @@ You don't have to use pin P0. You can use any analogue pin. Just remember to adj
 ## Basic Coding
 Enter this code in forever:
 
+[Download code to your computer](code/microbit-light-sensor-serial.hex)
+
 ![Code](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.
@@ -45,6 +47,8 @@ Shield the sensor with your hand and match the values change.
 
 You can use the light level to control other things. For example, in the code below we use the light level to control the bar graph function of the Microbit:
 
+[Download code to your computer](code/microbit-light-sensor-barchart.hex)
+
 ![Code](code-bar-graph.png)
 
 Detecting Light Direction with Two Light Sensors
@@ -55,6 +59,8 @@ Things get more interesting when you use two light sensors. Here, an additional 
 The difference between the light levels recorded by the two sensors gives you an indication of the direction of the light. This has many interesting applications. For example, you can attach two light sensors to the front of a robot and use the detected light direction to get the robot to move towards the light.
 
 This code shows an arrow to indicate the direction the light is coming from:
+
+[Download code to your computer](code/microbit-light-sensor-twin-sensors.hex)
 
 ![Code](code-twin-sensors.png)
 

@@ -22,6 +22,8 @@ You don't have to use pin P0. You can use any analogue pin. Just remember to adj
 ## Coding
 Enter this code in forever:
 
+[Download code to your computer](code/microbit-force-sensor-serial-out.hex)
+
 ![Code](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.
@@ -39,6 +41,8 @@ You should see some numbers and a graph. These show the amount of bend:
 Press the sensor and watch the values change. Don't dig into the sensor with anything sharp (like your fingernail) or you will damage the sensor.
 
 You can use the force value to control other things. For example, in the code below, we can use this to control the bar graph function of the Microbit:
+
+[Download code to your computer](code/microbit-force-sensor-barchart.hex)
 
 ![Code](code-bar-chart.png)
 

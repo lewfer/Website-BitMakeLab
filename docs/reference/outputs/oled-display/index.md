@@ -46,6 +46,8 @@ You should see a new block appear:
 
 Enter this code in on start block:
 
+[Download code to your computer](code/microbit-oled.hex)
+
 ![Code](code-zoom.png)
 
 Download the code to the microbit.
@@ -58,7 +60,10 @@ By default, the extension puts the display in "zoom" mode, which reduces the res
 
 You can switch off zoom mode and get the full 128x64 resolution, but of course text and pixels will be smaller:
 
+[Download code to your computer](code/microbit-oled-nozoom.hex)
+
 ![Code for no zoon](code-nozoom.png)
+
 
 ![Display without zoom](display-nozoom.jpg)
 

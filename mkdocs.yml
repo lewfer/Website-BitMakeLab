@@ -71,6 +71,7 @@ nav:
       - Rotary Encoder: reference/inputs/rotary-encoder-/index.md
       - Tilt Switch: reference/inputs/tilt-switch/index.md
       - On Off Switch: reference/inputs/on-off-switch/index.md
+      - RFID Reader: reference/inputs/rfid-reader/index.md
       - Hall Sensor: reference/inputs/hall-sensor/index.md
     - Outputs:
       - Overview: reference/outputs/index.md

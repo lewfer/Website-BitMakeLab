@@ -30,6 +30,8 @@ You don't have to use pin P13. You can use any digital pin. Just remember to adj
 ## Coding
 Enter this code in on start:
 
+[Download code to your computer](code/microbit-break-beam-sensor.hex)
+
 ![Code](code-1.png)
 
 Enter this code in forever:

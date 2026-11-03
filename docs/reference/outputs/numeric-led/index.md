@@ -44,6 +44,8 @@ Click on it.  You should see a new block appear:
 
 Enter this code in **on start** and **forever** blocks:
 
+[Download code to your computer](code/microbit-numeric-led.hex)
+
 ![Code](code1.png)
 
 Download the code to the microbit.

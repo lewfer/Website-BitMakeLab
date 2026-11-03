@@ -55,6 +55,8 @@ You should see a new block appear:
 
 Enter this code:
 
+[Download code to your computer](code/microbit-weather.hex)
+
 ![Code](code.png)
 
 If you are using the Adafruit sensor, set the address to 0x77.

@@ -23,6 +23,8 @@ You don't have to use pin P9.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code:
 
+[Download code to your computer](code/microbit-led.hex)
+
 ![Code](code.png)
 
 Download the code to the microbit.
@@ -49,6 +51,8 @@ You should see the following block:
 ![Block](bitmake-block.png)
 
 Enter the following code:
+
+[Download code to your computer](code/microbit-led-bitmake.hex)
 
 ![Code](code-bitmake.png)
 

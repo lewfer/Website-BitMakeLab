@@ -32,6 +32,8 @@ Add this extension:
 
 Enter this code in forever:
 
+[Download code to your computer](code/microbit-ultrasonic-sensor.hex)
+
 ![Code](code-1.png)
 
 The Serial blocks can be found in Advanced.
@@ -47,6 +49,8 @@ You should see some numbers and a graph. These show the distance readings in cm.
 ![Code](ultrasonic.gif)
 
 You could also try this, to show when an object approaches close to the sensor:
+
+[Download code to your computer](code/microbit-ultrasonic-sensor-2.hex)
 
 ![Code](code-2.png)
 

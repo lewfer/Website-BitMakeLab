@@ -47,6 +47,8 @@ You should see a new block appear:
 
 Enter this code in the **forever** block:
 
+[Download code to your computer](code/microbit-colour-sensor.hex)
+
 ![Code](code1.png)
 
 Download the code to the microbit.

@@ -27,6 +27,8 @@ You don't have to use pin P0.  You can use any <a href="../../../assets/pins-sho
 
 Enter this code in **forever**:
 
+[Download code to your computer](code/microbit-keyboard-5-key.hex)
+
 ![Code](code-serial-out.png)
 
 The Serial blocks can be found in Advanced.

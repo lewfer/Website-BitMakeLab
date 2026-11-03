@@ -43,6 +43,8 @@
   {{ linkCard("Tilt Switch", "Detects when something is tilted.") }}
 
   {{ linkCard("On-Off Switch", "A switch that can be either on or off.") }}
+
+  {{ linkCard("RFID Reader", "Reads RFID tags and cards") }}
     
   {{ linkCard("Hall Sensor", "Detects when a magnet passes it.") }}
   

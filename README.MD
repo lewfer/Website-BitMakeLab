@@ -34,7 +34,7 @@ To clear out all files before building use:
 
 You can also build to a specific directory, e.g:
 
-    mkdocs build --site-dir C:\inetpub\wwwroot\ThinkCreateLearn\bitmakelab
+    mkdocs build  --clean --site-dir C:\inetpub\wwwroot\ThinkCreateLearn\bitmakelab
 
 This creates the site subdirectory, which can be deployed to the server.
 
