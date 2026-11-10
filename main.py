@@ -27,3 +27,17 @@ def define_env(env):
             </a>
         </div>"""   
 
+    @env.macro
+    def threeDDesign(name, description):
+        # Replace the placeholders with name
+        clean_name = replaceSpaces(name)
+        return f"""**Long name:** {name}
+
+**Description:** {description}
+
+![Image]({name}.png)
+
+[Drawing]({name}.pdf){{ target=_blank }}
+
+[STL]({name}.stl)
+"""   

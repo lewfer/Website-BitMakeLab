@@ -96,6 +96,12 @@ nav:
     - Extensions: reference/extensions/index.md
   - Make the kit:
       - Overview: make-the-kit/index.md
+      - Parts:
+        - Button: make-the-kit/parts/button/index.md
+      - 3D Designs:
+        - PL12: make-the-kit/3d-designs/pl12/index.md
+      - PCB Designs:
+        - Button: make-the-kit/pcb-designs/button/index.md
 #  - Blog:
 #    - blog/index.md
   - About: about.md  
